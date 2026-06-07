@@ -18,6 +18,13 @@ Foodie is a modern and responsive food website built using HTML, CSS, and JavaSc
 * HTML5
 * CSS3
 * JavaScript
+
+## Live Demo
+
+Visit the deployed website here:
+
+https://kiranmayi-ops.github.io/top_seekers/
+
  
 
 ## Preview
